@@ -1,6 +1,8 @@
 # Enumeration
 Enumeration Techniques
 
+## DATE: 15.03.2025
+
 # Explore Google hacking and enumeration 
 
 # AIM:
